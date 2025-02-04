@@ -1,5 +1,5 @@
 import React from 'react'
-import ProfielPic from './../assets/projects/aniketRaskarProfile.jpeg'
+import ProfielPic from './../assets/projects/aniketRaskarProfile.jpg'
 import {delay, motion }from "framer-motion"
 
 const containerVariants ={
