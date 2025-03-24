@@ -9,19 +9,19 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "2025 - Present",
+    year: "Jan 2025 - Feb 2025",
     role: "Artificial intelligence Intern",
     company: "Edunet Foundation.",
     description: `Contributed to the development of AI-driven projects during a 4-week internship with Microsoft and SAP, focusing on transformative learning technologies. Collaborated with mentors to identify solutions and create prototypes that address real-world challenges. Participated in technical sessions and completed project documentation, enhancing foundational skills in AI applications`,
     technologies: ["Python", "Generative-AI", "Algorithms", "mongoDB"],
   },
-  {
-    year: "2025 - Present",
-    role: "Cyber Security Intern",
-    company: "Edunet Foundation.",
-    description: `Engaged in a 6-week internship with Edunet Foundation, specializing in Cyber Security through the SkillsBuild program. Worked independently on a project while receiving guidance from industry experts. Completed project-related tasks and presentations, gaining access to a vast e-learning platform and earning certifications to bolster employability.`,
-    technologies: ["Linux", "Computer Network", "Cloud Security", "Cryptography"],
-  },
+  // {
+  //   year: "2025 - Present",
+  //   role: "Cyber Security Intern",
+  //   company: "Edunet Foundation.",
+  //   description: `Engaged in a 6-week internship with Edunet Foundation, specializing in Cyber Security through the SkillsBuild program. Worked independently on a project while receiving guidance from industry experts. Completed project-related tasks and presentations, gaining access to a vast e-learning platform and earning certifications to bolster employability.`,
+  //   technologies: ["Linux", "Computer Network", "Cloud Security", "Cryptography"],
+  // },
   {
     year: "Nov 2024 -  Dec 2024",
     role: "Machine Learning Intern",
@@ -58,7 +58,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Shewalewadi Manjri Bk Pune ",
+  address: "Pune, Maharashtra",
   phoneNo: "+91 9322448225 ",
   email: "aniketraskar932@gmail.com",
 };
