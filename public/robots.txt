@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://aniket-raskar1-portfolio.vercel.app/sitemap.xml
+Sitemap: https://aniketraskar.me/sitemap.xml
