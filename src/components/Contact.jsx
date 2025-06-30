@@ -22,9 +22,6 @@ function Contact() {
             initial={{opacity:0,x:-100}}
             transition={{duration:1}}
             className='my-4'>
-            <a href={`tel:${CONTACT.phoneNo}`} target='_blank' rel='noopener noreferrer'>  
-            {CONTACT.phoneNo}
-            </a>
             </motion.p>
             <a href={`mailto:${CONTACT.email}`} className='border-b mt-4'>{CONTACT.email}</a>
         </div>
