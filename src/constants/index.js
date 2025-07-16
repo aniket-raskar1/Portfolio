@@ -37,24 +37,26 @@ export const PROJECTS = [
     title: "Intellect Hire",
     image: project1,
     description:
-      "Intellect-Hire is a platform that enables users to take unlimited mock interviews in technical and non-technical domains. It offers automated feedback, allowing users to record their answers and improve their interview skills effective",
+      "Intellect-Hire is a platform that enables users to take unlimited mock interviews in technical and non-technical domains. It offers automated feedback, allowing users to record their answers and improve their interview skills effectively.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    url: "https://intellecthire.aniketraskar.me",
   },
   {
-  title: "Artha – Personal Finance App",
-  image: project2,
-  description:
-    "Artha is an AI-powered finance tracking app that provides daily expense analysis, goal tracking, and category-wise insights. It helps users make informed decisions through interactive visualizations.",
-  technologies: ["Python", "Streamlit", "Pandas", "Matplotlib", "SQLite"],
+    title: "Artha – Personal Finance App",
+    image: project2,
+    description:
+      "Artha is an AI-powered finance tracking app that provides daily expense analysis, goal tracking, and category-wise insights. It helps users make informed decisions through interactive visualizations.",
+    technologies: ["Python", "Streamlit", "Pandas", "Matplotlib", "SQLite"],
+    url: "https://artha-web.streamlit.app/",
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Tailwind","Framer-Motion","Vercel"],
+    technologies: ["HTML", "CSS", "React", "Tailwind", "Framer-Motion", "Vercel"],
+    url: "https://aniketraskar.me",
   },
-  
 ];
 
 export const CONTACT = {
