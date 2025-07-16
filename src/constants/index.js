@@ -41,11 +41,11 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
-    title: "Task Management App",
-    image: project2,
-    description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+  title: "Artha – Personal Finance App",
+  image: project2,
+  description:
+    "Artha is an AI-powered finance tracking app that provides daily expense analysis, goal tracking, and category-wise insights. It helps users make informed decisions through interactive visualizations.",
+  technologies: ["Python", "Streamlit", "Pandas", "Matplotlib", "SQLite"],
   },
   {
     title: "Portfolio Website",
